@@ -4,14 +4,14 @@ Final project for the **Python Programming** module. The notebook implements a s
 
 ## Contents
 
-- `Progetto_6_Leone_Parasporo.ipynb`: main documented and reproducible notebook.
+- `vegan_shop.ipynb`: main documented and reproducible notebook.
 - `shop_storage.json`: initial inventory state.
 - `shop_profits.txt`: initial revenue and profit values.
 - `requirements.txt`: project dependencies.
 
 ## How to Run
 
-1. Open `Progetto_6_Leone_Parasporo.ipynb` with Jupyter Notebook, JupyterLab, VS Code, or Google Colab.
+1. Open `vegan_shop.ipynb` with Jupyter Notebook, JupyterLab, VS Code, or Google Colab.
 2. Run the cells from top to bottom.
 3. The demo and automated checks do not modify the data files.
 4. To use the shop manager in interactive mode, uncomment `run_cli()` in the last notebook cell.
@@ -27,4 +27,4 @@ Final project for the **Python Programming** module. The notebook implements a s
 
 ## Technical Notes
 
-The project uses only the Python standard library. The notebook has been cleaned up for GitHub: business logic is separated from interactive input, cells are reproducible, inputs are validated, data loading is robust, and final automated checks are included.
+The project uses only the Python standard library. Business logic is separated from interactive input, cells are reproducible, inputs are validated, data loading is robust, and final automated checks are included.
