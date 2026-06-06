@@ -1,6 +1,6 @@
 # Vegan Shop - Python CLI
 
-Final project for the **Python Programming** module. The notebook implements a small command-line management tool for a vegan shop: it can add products, record sales, update inventory, and calculate revenue and profit.
+The notebook implements a small command-line management tool for a vegan shop: it can add products, record sales, update inventory, and calculate revenue and profit.
 
 ## Contents
 
